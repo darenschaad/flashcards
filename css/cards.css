@@ -1,0 +1,15 @@
+.definition {
+  display: none;
+}
+
+.showterm {
+  font-weight: bold;
+}
+
+.boxed {
+  border: 2px solid grey;
+  text-align: center;
+  font-size: 18px;
+  vertical-align: middle;
+  height: 300px;
+}
